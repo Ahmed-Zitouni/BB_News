@@ -1,6 +1,6 @@
 # BB_News
 
-##How to Start the Server**\
+##How to Start the Server \
 Install latest version of Golang from https://golang.org/ 
 
 Download the repository locally and cd into server folder \
